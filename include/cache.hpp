@@ -16,7 +16,7 @@ using std::string;
 using std::stringstream;
 using std::ostream;
 
-struct Data;
+
 
 class Cache {
   struct ExperimentData
